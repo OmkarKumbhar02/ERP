@@ -13,5 +13,9 @@ namespace P2PErpProject.Controllers
         {
             return View();
         }
+        public ActionResult Details()
+        {
+            return View();
+        }
     }
 }
