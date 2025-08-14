@@ -43,5 +43,9 @@ namespace P2PErpProject.Controllers
         {
             return "ash";
         }
+        public string intt()
+        {
+            return "sd";
+        }
     }
 }
