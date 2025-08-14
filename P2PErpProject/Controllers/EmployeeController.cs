@@ -35,6 +35,9 @@ namespace P2PErpProject.Controllers
         {
             return View();
         }
-
+        public ActionResult inttt()
+        {
+            return View();
+        }
     }
 }
