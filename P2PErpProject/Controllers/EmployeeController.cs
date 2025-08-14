@@ -19,11 +19,10 @@ namespace P2PErpProject.Controllers
             //Chnaged
             return View();
         }
-<<<<<<< HEAD
         public ActionResult Delete(int id)
         {
-
-=======
+            return View();
+        }
         public ActionResult Create()
         {
             return View();
@@ -31,7 +30,6 @@ namespace P2PErpProject.Controllers
         public ActionResult Edit(int id)
         {
             return View();
->>>>>>> upstream/master
         }
 
     }
