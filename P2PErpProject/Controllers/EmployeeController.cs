@@ -31,6 +31,10 @@ namespace P2PErpProject.Controllers
         {
             return View();
         }
+        public ActionResult Update(int id)
+        {
+            return View();
+        }
 
     }
 }
