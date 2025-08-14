@@ -31,7 +31,7 @@ namespace P2PErpProject.Controllers
         {
             return View();
         }
-        public ActionResult Update(int id)
+        public ActionResult Uqpdate(int id)
         {
             return View();
         }
