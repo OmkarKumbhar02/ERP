@@ -19,5 +19,10 @@ namespace P2PErpProject.Controllers
             //Chnaged
             return View();
         }
+        public ActionResult Delete(int id)
+        {
+
+        }
+
     }
 }
