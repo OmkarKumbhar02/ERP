@@ -15,6 +15,7 @@ namespace P2PErpProject.Controllers
         }
         public ActionResult Detail()
         {
+            //Helolo
             return View();
         }
     }
