@@ -13,8 +13,10 @@ namespace P2PErpProject.Controllers
         {
             return View();
         }
-        public ActionResult Detail()
+        public ActionResult Details()
         {
+            //Helolo
+            //Chnaged
             return View();
         }
     }
